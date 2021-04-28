@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asas3535345dsd
+=======
+asaok
+>>>>>>> 2f4f6ce... kkk
